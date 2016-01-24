@@ -1,6 +1,6 @@
 //: Playground - noun: a place where people can play
 //@Author: Christopher Rijos
-//clr45@students.uwf.edu
+
 
 import UIKit
 import Foundation
